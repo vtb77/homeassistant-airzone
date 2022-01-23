@@ -1,0 +1,20 @@
+{
+    "config": {
+        "error": {
+            "connection": "Fallo de conexión por Modbus con Airzone."
+          },
+        "step": {
+            "user": {
+                "data": {
+                    "host": "IP o hostname",
+                    "port": "Puerto",
+                    "device_id": "ID",
+                    "device_class": "Tipo",
+                    "speed_as_percentage": "Velocidad porcentual (solo Aidoo)"                    
+                },
+                "description": "Introduzca la configuración de su Airzone.",
+                "title": "Configuración"
+            }
+        }
+    }
+}
