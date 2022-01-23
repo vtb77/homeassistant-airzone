@@ -1,16 +1,16 @@
 {
     "config": {
         "error": {
-            "connection": "Cannot connect with airzone machine"
+            "connection": "Cannot connect with airzone machine."
           },
         "step": {
             "user": {
                 "data": {
                     "host": "The ip / host where the system is listening",
-                    "port": "port",
+                    "port": "Port",
                     "device_id": "Device Id",
                     "device_class": "Class",
-                    "speed_as_percentage": "The speed is a percentage (only for Aido)"                    
+                    "speed_as_percentage": "The speed is a percentage (only for Aidoo)"                    
                 },
                 "description": "Enter your Airzone config.",
                 "title": "Configuration"
